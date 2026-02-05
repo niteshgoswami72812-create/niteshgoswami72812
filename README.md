@@ -29,3 +29,8 @@ Frontend:Figma, HTML, CSS, JavaScript, REACT JS
 - Email: niteshgoswami72812@gmail.com
 - LinkedIn:https://www.linkedin.com/in/nitesh-goswami-b09324312/
 - GitHub: Niteshgoswami72812-create
+
+- ⚡ Fun Fact:
+I drink more coffee than code sometimes... but only sometimes ☕💻
+
+Thanks for stopping by! Feel free to check out my repositories and connect 👇
