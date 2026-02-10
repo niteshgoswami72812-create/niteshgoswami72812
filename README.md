@@ -12,7 +12,7 @@ I'm a passionate developer and lifelong learner who loves building meaningful so
 🌱 I'm currently learning:
 - HTML, CSS, JavaScript
 - Python, Django, Figma 
-- Backend development with MySQL & SQLite
+- Backend development with MySQL
 
 
 Frontend:Figma, HTML, CSS, JavaScript, REACT JS
