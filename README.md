@@ -1,5 +1,40 @@
 # 💫 About Me:
-Hi there 👋 I'm Nitesh!<br><br>I'm a passionate developer and lifelong learner who loves building meaningful software projects and exploring new technologies.<br><br>🔭 I'm currently working on:<br><br>Developing web applications with modern front-end frameworks<br>Expanding my skills in full-stack development<br>Personal projects and open-source contributions<br>🌱 I'm currently learning:<br><br>HTML, CSS, JavaScript<br>Python, Django, Figma<br>Backend development with MySQL<br>Frontend:Figma, HTML, CSS, JavaScript, REACT JS<br><br>Backend: Core python, Adv. python, MYSQL, DJANGO, REST API/DRF<br><br>Tools: Git, GitHub, VS Code, Agile Scrum<br><br>🤝 I'm looking to collaborate on:<br><br>Beginner-friendly open source projects<br>Web development projects (front-end or full-stack)<br>Hackathons and tech communities<br>📫 How to reach me:<br><br>Email: niteshgoswami72812@gmail.com<br><br>LinkedIn:https://www.linkedin.com/in/nitesh-goswami-b09324312/<br><br>GitHub: Niteshgoswami72812-create<br><br>⚡ Fun Fact: I drink more coffee than code sometimes... but only sometimes ☕💻<br><br>Thanks for stopping by! Feel free to check out my repositories and connect 👇
+Hi there 👋 I'm Nitesh!<br><br>I'm a passionate developer and lifelong learner who loves building meaningful software projects and exploring new technologies.<br><br>🔭 I'm currently working on:<br><br>Developing web applications with modern front-end frameworks<br>Expanding my skills in full-stack development<br>Personal projects and open-source contributions<br>🌱 I'm currently learning:<br><br>HTML, CSS, JavaScript<br>Python, Django, Figma<br>Backend development with MySQL<br>Frontend:Figma, HTML, CSS, JavaScript, REACT JS<br><br>Backend: Core python, Adv. python, MYSQL, DJANGO, REST API/DRF<br><br>Tools: Git, GitHub, VS Code, Agile Scrum<br><br>🤝 I'm looking to collaborate on:<br><br>Beginner-friendly open source projects<br>Web development projects (front-end or full-stack)<br>Hackathons and tech communities<br>📫 How to reach me:<br><br>Email: niteshgoswami72812@gmail.com<br><br>LinkedInHi there 👋 I'm Nitesh!
+
+I'm a passionate developer and lifelong learner who loves building meaningful software projects and exploring new technologies.
+
+
+
+ 🔭 I'm currently working on:
+- Developing web applications with modern front-end frameworks
+- Expanding my skills in full-stack development
+- Personal projects and open-source contributions
+
+🌱 I'm currently learning:
+- HTML, CSS, JavaScript
+- Python, Django, Figma 
+- Backend development with MySQL
+
+
+Frontend:Figma, HTML, CSS, JavaScript, REACT JS
+- **Backend:** Core python, Adv. python, MYSQL, DJANGO, REST API/DRF
+
+- **Tools:** Git, GitHub, VS Code, Agile Scrum
+
+🤝 I'm looking to collaborate on:
+- Beginner-friendly open source projects
+- Web development projects (front-end or full-stack)
+- Hackathons and tech communities
+
+ 📫 How to reach me:
+- Email: niteshgoswami72812@gmail.com
+- LinkedIn:https://www.linkedin.com/in/nitesh-goswami-b09324312/
+- GitHub: Niteshgoswami72812-create
+
+- ⚡ Fun Fact:
+I drink more coffee than code sometimes... but only sometimes ☕💻
+
+Thanks for stopping by! Feel free to check out my repositories and connect 👇/<br><br>GitHub: Niteshgoswami72812-create<br><br>⚡ Fun Fact: I drink more coffee than code sometimes... but only sometimes ☕💻<br><br>Thanks for stopping by! Feel free to check out my repositories and connect 👇
 
 
 ## 🌐 Socials:
