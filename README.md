@@ -1,36 +1,15 @@
-Hi there 👋 I'm Nitesh!
-
-I'm a passionate developer and lifelong learner who loves building meaningful software projects and exploring new technologies.
-
+# 💫 About Me:
+Hi there 👋 I'm Nitesh!<br><br>I'm a passionate developer and lifelong learner who loves building meaningful software projects and exploring new technologies.<br><br>🔭 I'm currently working on:<br><br>Developing web applications with modern front-end frameworks<br>Expanding my skills in full-stack development<br>Personal projects and open-source contributions<br>🌱 I'm currently learning:<br><br>HTML, CSS, JavaScript<br>Python, Django, Figma<br>Backend development with MySQL<br>Frontend:Figma, HTML, CSS, JavaScript, REACT JS<br><br>Backend: Core python, Adv. python, MYSQL, DJANGO, REST API/DRF<br><br>Tools: Git, GitHub, VS Code, Agile Scrum<br><br>🤝 I'm looking to collaborate on:<br><br>Beginner-friendly open source projects<br>Web development projects (front-end or full-stack)<br>Hackathons and tech communities<br>📫 How to reach me:<br><br>Email: niteshgoswami72812@gmail.com<br><br>LinkedIn:https://www.linkedin.com/in/nitesh-goswami-b09324312/<br><br>GitHub: Niteshgoswami72812-create<br><br>⚡ Fun Fact: I drink more coffee than code sometimes... but only sometimes ☕💻<br><br>Thanks for stopping by! Feel free to check out my repositories and connect 👇
 
 
- 🔭 I'm currently working on:
-- Developing web applications with modern front-end frameworks
-- Expanding my skills in full-stack development
-- Personal projects and open-source contributions
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._goswami____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nitesh Goswami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteshgoswami72812@gmail.com) 
 
-🌱 I'm currently learning:
-- HTML, CSS, JavaScript
-- Python, Django, Figma 
-- Backend development with MySQL
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=niteshgoswami72812-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=niteshgoswami72812-create&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshgoswami72812-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-Frontend:Figma, HTML, CSS, JavaScript, REACT JS
-- **Backend:** Core python, Adv. python, MYSQL, DJANGO, REST API/DRF
-
-- **Tools:** Git, GitHub, VS Code, Agile Scrum
-
-🤝 I'm looking to collaborate on:
-- Beginner-friendly open source projects
-- Web development projects (front-end or full-stack)
-- Hackathons and tech communities
-
- 📫 How to reach me:
-- Email: niteshgoswami72812@gmail.com
-- LinkedIn:https://www.linkedin.com/in/nitesh-goswami-b09324312/
-- GitHub: Niteshgoswami72812-create
-
-- ⚡ Fun Fact:
-I drink more coffee than code sometimes... but only sometimes ☕💻
-
-Thanks for stopping by! Feel free to check out my repositories and connect 👇
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
