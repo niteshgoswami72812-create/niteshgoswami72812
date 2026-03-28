@@ -37,4 +37,6 @@ I'm a passionate developer and lifelong learner who loves building meaningful so
 **🔝 Top Contributed Repo** ![](https://github-contributor-stats.vercel.app/api?username=niteshgoswami72812-create&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niteshgoswami72812-create&theme=dark)](https://git.io/streak-stats)
 [![](https://visitcount.itsvg.in/api?id=niteshgoswami72812-create&icon=0&color=0)](https://visitcount.itsvg.in)
