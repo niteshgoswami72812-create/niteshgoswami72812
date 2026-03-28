@@ -1,42 +1,36 @@
-# 💫 About Me:
+#💫 About Me:
 
-Hi there 👋 I'm **Nitesh**!
+💫 About Me:<br>Hi there 👋 I'm Nitesh!<br><br>I'm a passionate developer and lifelong learner who loves building meaningful software projects and exploring new technologies.<br><br><br><br>🔭 I'm currently working on:<br>- Developing web applications with modern front-end frameworks<br>- Expanding my skills in full-stack development<br>- Personal projects and open-source contributions<br><br>🌱 I'm currently learning:<br>- HTML, CSS, JavaScript<br>- Python, Django, Figma<br>- Backend development with MySQL<br><br><br>Frontend:Figma, HTML, CSS, JavaScript, REACT JS<br>- Backend: Core python, Adv. python, MYSQL, DJANGO, REST API/DRF<br><br>- Tools: Git, GitHub, VS Code, Agile Scrum<br><br>🤝 I'm looking to collaborate on:<br>- Beginner-friendly open source projects<br>- Web development projects (front-end or full-stack)<br>- Hackathons and tech communities<br><br>📫 How to reach me:<br>- Email: niteshgoswami72812@gmail.com<br>- LinkedIn:https://www.linkedin.com/in/nitesh-goswami-b09324312/<br>- GitHub: Niteshgoswami72812-create<br><br>- ⚡ Fun Fact:<br>I drink more coffee than code sometimes... but only sometimes ☕💻<br><br>Thanks for stopping by! Feel free to check out my repositories and connect 👇
 
-I'm a passionate developer and lifelong learner who loves building meaningful software projects and exploring new technologies.
 
-- 🔭 **I'm currently working on:** Developing web applications with modern front-end frameworks and full-stack development.
-- 🌱 **I'm currently learning:** HTML, CSS, JavaScript, Python, Django, Figma, and MySQL.
-- 🤝 **I'm looking to collaborate on:** Beginner-friendly open source projects, web development, and hackathons.
-- ⚡ **Fun Fact:** I drink more coffee than code sometimes... but only sometimes ☕💻
 
----
 
-### 💻 Tech Stack:
+## 🌐 Socials:
 
-**Frontend:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._goswami____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitesh-goswami-b09324312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteshgoswami72812@gmail.com) 
 
-**Backend & Tools:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
----
+# 💻 Tech Stack:
 
-### 🌐 Socials:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-goswami-b09324312/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._goswami____) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteshgoswami72812@gmail.com)
+# 📊 GitHub Stats:
 
----
+![](https://github-readme-stats.vercel.app/api?username=niteshgoswami72812-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshgoswami72812-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=niteshgoswami72812-create&theme=dark&hide_border=false" height="150" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=niteshgoswami72812-create&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshgoswami72812-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**🔝 Top Contributed Repo** ![](https://github-contributor-stats.vercel.app/api?username=niteshgoswami72812-create&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=niteshgoswami72812-create&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niteshgoswami72812-create&theme=dark)](https://git.io/streak-stats)
 [![](https://visitcount.itsvg.in/api?id=niteshgoswami72812-create&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
