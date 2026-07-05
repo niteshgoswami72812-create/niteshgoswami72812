@@ -1,36 +1,83 @@
-#💫 About Me:
+<h1 align="center">Hi 👋, I'm Nitesh Goswami</h1>
+<h3 align="center">Python Full Stack Developer</h3>
 
-💫 About Me:<br>Hi there 👋 I'm Nitesh!<br><br>I'm a passionate developer and lifelong learner who loves building meaningful software projects and exploring new technologies.<br><br><br><br>🔭 I'm currently working on:<br>- Developing web applications with modern front-end frameworks<br>- Expanding my skills in full-stack development<br>- Personal projects and open-source contributions<br><br>🌱 I'm currently learning:<br>- HTML, CSS, JavaScript<br>- Python, Django, Figma<br>- Backend development with MySQL<br><br><br>Frontend:Figma, HTML, CSS, JavaScript, REACT JS<br>- Backend: Core python, Adv. python, MYSQL, DJANGO, REST API/DRF<br><br>- Tools: Git, GitHub, VS Code, Agile Scrum<br><br>🤝 I'm looking to collaborate on:<br>- Beginner-friendly open source projects<br>- Web development projects (front-end or full-stack)<br>- Hackathons and tech communities<br><br>📫 How to reach me:<br>- Email: niteshgoswami72812@gmail.com<br>- LinkedIn:https://www.linkedin.com/in/nitesh-goswami-b09324312/<br>- GitHub: Niteshgoswami72812-create<br><br>- ⚡ Fun Fact:<br>I drink more coffee than code sometimes... but only sometimes ☕💻<br><br>Thanks for stopping by! Feel free to check out my repositories and connect 👇
+<p align="center">
+Passionate about building scalable and user-friendly web applications using Python, Django, Django REST Framework, React.js, JavaScript, and MySQL.
+</p>
 
+<p align="center">
+🌱 Currently learning advanced backend development and contributing to personal projects.
+</p>
 
-
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._goswami____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitesh-goswami-b09324312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteshgoswami72812@gmail.com) 
-
-
-# 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=niteshgoswami72812-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=niteshgoswami72812-create&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshgoswami72812-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=niteshgoswami72812-create&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<p align="center">
+💼 Open to Full-Time Software Developer Opportunities
+</p>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niteshgoswami72812-create&theme=dark)](https://git.io/streak-stats)
-[![](https://visitcount.itsvg.in/api?id=niteshgoswami72812-create&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🩺 Doctor Appointment Web Application
+- Secure authentication system
+- Doctor & Patient Dashboard
+- Appointment Booking
+- Built using Django, DRF, React.js & MySQL
+
+### 📅 Booking Pro
+- Booking Management System
+- Responsive UI
+- Django + React.js
+
+### 🌐 Personal Portfolio
+Live Portfolio showcasing my projects and skills.
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+### Backend
+- Python
+- Django
+- Django REST Framework
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+- Jira
+
+---
+
+## 📫 Connect With Me
+
+📧 Email:
+**niteshgoswami72812@gmail.com**
+
+💼 LinkedIn
+https://www.linkedin.com/in/nitesh-goswami-b09324312/
+
+🌐 Portfolio
+https://portfolio-main-liard-sigma-58.vercel.app
+
+---
+
+## 📊 GitHub Stats
+
+![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshgoswami72812-create&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshgoswami72812-create&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niteshgoswami72812-create&theme=tokyonight)
+
+---
+
+⭐ Thanks for visiting my profile!
+Feel free to explore my repositories and connect with me.
