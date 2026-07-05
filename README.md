@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitesh Goswami</h1>
+
 <h3 align="center">Python Full Stack Developer</h3>
 
 <p align="center">
-Passionate about building scalable and user-friendly web applications using Python, Django, Django REST Framework, React.js, JavaScript, and MySQL.
-</p>
-
-<p align="center">
-🌱 Currently learning advanced backend development and contributing to personal projects.
+Passionate about building modern and responsive web applications using Python, React.js, JavaScript, Django, and MySQL.
 </p>
 
 <p align="center">
@@ -17,19 +14,25 @@ Passionate about building scalable and user-friendly web applications using Pyth
 
 ## 🚀 Featured Projects
 
-### 🩺 Doctor Appointment Web Application
-- Secure authentication system
-- Doctor & Patient Dashboard
-- Appointment Booking
-- Built using Django, DRF, React.js & MySQL
+### 🩺 Doctor Appointment Web App
+- Built with React.js
+- Dynamic routing using React Router DOM
+- API integration with Axios
+- JSON-based data handling
+- State management using useState
+- Navigation using useNavigate
+- Responsive user interface
 
 ### 📅 Booking Pro
-- Booking Management System
-- Responsive UI
-- Django + React.js
+- Developed using React.js
+- React Router DOM for routing
+- Axios for API requests
+- JSON data management
+- useState & useNavigate
+- Responsive booking interface
 
 ### 🌐 Personal Portfolio
-Live Portfolio showcasing my projects and skills.
+A responsive portfolio showcasing my projects, technical skills, and contact information.
 
 ---
 
@@ -58,24 +61,20 @@ Live Portfolio showcasing my projects and skills.
 
 ## 📫 Connect With Me
 
-📧 Email:
+📧 Email  
 **niteshgoswami72812@gmail.com**
 
-💼 LinkedIn
+💼 LinkedIn  
 https://www.linkedin.com/in/nitesh-goswami-b09324312/
 
-🌐 Portfolio
+🌐 Portfolio  
 https://portfolio-main-liard-sigma-58.vercel.app
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshgoswami72812-create&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshgoswami72812-create&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niteshgoswami72812-create&theme=tokyonight)
+(Add your GitHub Stats cards here)
 
 ---
 
