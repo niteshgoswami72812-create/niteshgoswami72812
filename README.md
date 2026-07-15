@@ -55,7 +55,7 @@ A responsive portfolio showcasing my projects, technical skills, and contact inf
 - GitHub
 - VS Code
 - Figma
-- Jira.
+- Jira
 
 ---
 
