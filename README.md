@@ -12,7 +12,7 @@ Passionate about building modern and responsive web applications using Python, R
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🩺 Doctor Appointment Web App
 - Built with React.js
