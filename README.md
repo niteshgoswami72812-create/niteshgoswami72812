@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitesh Goswami</h1>
 
-<h3 align="center">Python Full Stack Developer</h3>
+<h2 align="center">Python Full Stack Developer</h2>
 
 <p align="center">
 Passionate about building modern and responsive web applications using Python, React.js, JavaScript, Django, and MySQL.
